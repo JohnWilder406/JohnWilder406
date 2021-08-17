@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### 😄 Pronouns: He/Him
+
+### 🌱 I’m currently learning more about MERN, Redux, and Typescript
+
+### 🔭 I’m currently working on finding a job in the tech sector and expanding my portfolio
+
+
+
 <!--
 **JohnWilder406/JohnWilder406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
